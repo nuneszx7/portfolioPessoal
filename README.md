@@ -1,6 +1,6 @@
-## Projeto com portfólio
+# Projeto com portfólio
 
-# Estrutura para Portifólio:
+## Estrutura para Portifólio:
 
 ⏺️ Header (Nome, Welcome, Job, Descrição Rápida)
 ⏺️ Secção 1 - Stacks Técnicas / Habilidades
