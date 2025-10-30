@@ -194,5 +194,23 @@ h2 {
 }
 
 
+/* responsividade tablet */
+@media (max-width: 1024px){
 
+    main {
+        padding: 2 rem 5%;
+    }
 
+    .header-content {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 2rem;;
+    }
+
+    .projects-container {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+}
