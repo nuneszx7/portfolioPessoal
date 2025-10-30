@@ -172,13 +172,37 @@ h2 {
     text-align: center;
     padding: 3rem 1rem;
     border-top: 1px solid #333;
+    justify-content: space-between;
 }
 
-#contato h2 {
+#contato .whatsapp img{
+    width: 40px;
+    height: 40px;
+}
+
+#contato .email img {
+    filter: invert(1);
+    width: 48px;
+    height: 48px;
+}
+
+#contato .github img {
+    filter: invert(1);
+    width: 32px;
+    height: 32px;
+    margin-bottom: 7px;
+}
+
+
+
+
+/* #contato h2 {
     margin-bottom: 1.5rem;
-}
+} */
 
-#contato p {
+/* #contato p {
     font-size: 1.1rem;
-}
+} */
+
+
 
